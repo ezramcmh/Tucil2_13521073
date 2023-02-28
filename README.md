@@ -1,5 +1,5 @@
 # Tucil 2 STIMA
-# Mencari Pasangan Titik Terdekat 3D dengan Algoritma Divide and Conquer
+Tugas Kecil IF2211 Strategi Algoritma
 
 ## Deskripsi
 Program ini akan mencari sepasang titik dengan jarak terdekat menggunakan Algoritma Divide and Conquer 
